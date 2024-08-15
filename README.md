@@ -8,9 +8,10 @@ Updates: Regularly updated with new opportunities and insights as they become av
 How to Use This Repository
 Feel free to explore the opportunities and share this repository with others who might find it useful. Contributions are also welcome—if you know of an internship that would be a great fit for this list, please submit a pull request!
 
-| **Job Title**                                      | **Company**               | **Posting Date** | **Application Deadline** | **Application Link**                               |
-|----------------------------------------------------|---------------------------|------------------|--------------------------|---------------------------------------------------|
-| Software Engineer - Winter Internship                        | The Coalition (Microsoft)                   | August 13, 2024   | Ongoing (applications processed throughout the academic calendar, August - April)        | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750384/Software-Engineer---The-Coalition-Winter-Internship-Opportunities)           |
-| Software Engineer - Winter Internship              | Microsoft                  | August 13, 2024  | Ongoing                    | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC) |
+| **Job Title**                                   | **Company**                | **Posting Date** | **Application Deadline** | **Duration**    | **Application Link**                                                                                                                                                                      |
+|-------------------------------------------------|----------------------------|------------------|--------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Software Engineer - Winter Internship           | The Coalition (Microsoft)   | August 13, 2024  | Ongoing August - April    | Not Specified   | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750384/Software-Engineer---The-Coalition-Winter-Internship-Opportunities)                                                   |
+| Software Engineer - Winter Internship           | Microsoft                   | August 13, 2024  | Ongoing                   | Not Specified   | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC)                                                   |
+| Software Development Intern (Winter Co-op, Summer Intern, Fall Co-op) | KPMG              | September 2, 2024 | September 2, 2024          | Not Specified   | [Apply Here](https://careers.kpmg.ca/jobs/24805) |
 
 
