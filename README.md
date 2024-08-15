@@ -11,6 +11,6 @@ Feel free to explore the opportunities and share this repository with others who
 | **Job Title**                                      | **Company**               | **Posting Date** | **Application Deadline** | **Application Link**                               |
 |----------------------------------------------------|---------------------------|------------------|--------------------------|---------------------------------------------------|
 | Software Engineer - Winter Internship                        | The Coalition (Microsoft)                   | August 13, 2024   | Ongoing (applications processed throughout the academic calendar, August - April)        | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750384/Software-Engineer---The-Coalition-Winter-Internship-Opportunities)           |
-| Software Engineer - Winter Internship              | Microsoft                  | August 13, 2024  | Ongoing                    | [Apply Here]([https://careers.microsoft.com/v2/global/en/canada-pay-information.html](https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC)) |
+| Software Engineer - Winter Internship              | Microsoft                  | August 13, 2024  | Ongoing                    | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750386/Software-Engineer%3A-Internship-Opportunities%2C-Vancouver%2C-BC) |
 
 
