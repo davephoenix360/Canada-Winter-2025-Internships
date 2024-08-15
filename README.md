@@ -10,7 +10,7 @@ Feel free to explore the opportunities and share this repository with others who
 
 | **Job Title**                                      | **Company**               | **Posting Date** | **Application Deadline** | **Application Link**                               |
 |----------------------------------------------------|---------------------------|------------------|--------------------------|---------------------------------------------------|
-| Software Engineer - The Coalition Internship                        | Microsoft                   | August 13, 2024   | September 15, 2024        | [Apply Here](https://jobs.careers.microsoft.com/global/en/share/1750384/?utm_source=Job Share&utm_campaign=Copy-job-share)           |
+| Software Engineer - The Coalition Internship                        | Microsoft                   | August 13, 2024   | September 15, 2024        | [Apply Here](https://jobs.careers.microsoft.com/global/en/job/1750384/Software-Engineer---The-Coalition-Winter-Internship-Opportunities)           |
 | Front-End Engineering Intern                       | ABC Web Solutions          | August 5, 2024   | September 20, 2024        | [Apply Here](https://example.com/apply)           |
 | AI/ML Research Intern                              | AI Innovations             | August 10, 2024  | September 25, 2024        | [Apply Here](https://example.com/apply)           |
 
