@@ -7,3 +7,11 @@ Resources: Helpful tips and resources for crafting your resume, preparing for te
 Updates: Regularly updated with new opportunities and insights as they become available.
 How to Use This Repository
 Feel free to explore the opportunities and share this repository with others who might find it useful. Contributions are also welcome—if you know of an internship that would be a great fit for this list, please submit a pull request!
+
+| **Job Title**                                      | **Company**               | **Posting Date** | **Application Deadline** | **Application Link**                               |
+|----------------------------------------------------|---------------------------|------------------|--------------------------|---------------------------------------------------|
+| Software Development Intern                        | XYZ Tech                   | August 1, 2024   | September 15, 2024        | [Apply Here](https://example.com/apply)           |
+| Front-End Engineering Intern                       | ABC Web Solutions          | August 5, 2024   | September 20, 2024        | [Apply Here](https://example.com/apply)           |
+| AI/ML Research Intern                              | AI Innovations             | August 10, 2024  | September 25, 2024        | [Apply Here](https://example.com/apply)           |
+
+
