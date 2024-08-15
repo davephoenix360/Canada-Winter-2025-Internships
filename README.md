@@ -1,4 +1,4 @@
-# Winter 2025 Co-op Internship Opportunities
+# Tech Winter 2025 Co-op Internship Opportunities
 Welcome to this repository where I am curating a list of exciting Winter 2025 co-op internship opportunities in software development, AI/ML, web development, and related fields. As I navigate the search for internships myself, I'm compiling positions that might be of interest to fellow students and professionals.
 
 What You'll Find Here
